@@ -1,5 +1,5 @@
 # Secrets Behind Recipes
-data story link: http://ty-dong.github.io
+# Data story link: http://ty-dong.github.io
 
 # Abstract
 Cooking is an important skill for everyone, no matter where they live. After evolving for centuries, what people eat everyday has grown into systems. Every country has their own style of eating and the styles diverge from region to region. Through the recipes, we can know what is frequently eaten by the people of one country and how they usually cook. We can even go further, find the relationships between what people eat and how their health conditions are, and dig out all the secrets behind the recipes.
@@ -38,9 +38,9 @@ To learn the relationship between recipes and health, we use datasets about nonc
 
 # Contributions
 
-Tianyang Dong: data cleaning, website design, data visualization.
-
 Wei Jiang: health and seasoning relationship analysis, data visualization.
+
+Tianyang Dong: data cleaning, website design, data visualization.
 
 Huajian Qiu: similarity analsysis using PCA and t-SNE, data visualization.
 
